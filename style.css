@@ -48,13 +48,13 @@ body, html {
   border: none;
   font-family: "Kaushan Script";
   font-size: 1em;
-  width: 100%;
+  width: 80%;
 }
 
 .ecrit {
   font-family: "Kaushan Script";
   font-size: 1.2em;
-  padding: 20px;
+  padding: 10px;
   width: 100%;
   display: block;
   overflow: hidden;
